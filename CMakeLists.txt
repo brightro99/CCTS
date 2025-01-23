@@ -29,3 +29,4 @@ ENDIF()
 
 ADD_SUBDIRECTORY(0_recursion)
 ADD_SUBDIRECTORY(1_permutation)
+ADD_SUBDIRECTORY(2_formula)
