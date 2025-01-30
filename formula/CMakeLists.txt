@@ -1,4 +1,4 @@
-SET(TARGET_NAME 7_prefix_sum)
+SET(TARGET_NAME formula)
 
 FILE(GLOB SOURCE
     ${CMAKE_CURRENT_SOURCE_DIR}/*.cpp

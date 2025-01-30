@@ -1,4 +1,4 @@
-SET(TARGET_NAME 1_permutation)
+SET(TARGET_NAME unique)
 
 FILE(GLOB SOURCE
     ${CMAKE_CURRENT_SOURCE_DIR}/*.cpp
